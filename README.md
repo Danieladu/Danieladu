@@ -2,6 +2,9 @@
 - 🔭 I’m currently working on the Microsoft BotFramework and Azure Bot Service.
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### repositories
