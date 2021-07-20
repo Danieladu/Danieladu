@@ -3,7 +3,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML       15 mins         █████████████████████▒░░░   84.95 % 
+C#         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
 ```
 <!--END_SECTION:waka-->
 
