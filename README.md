@@ -1,6 +1,7 @@
-### This is Hongyang Du
-- 🔭 I’m currently working on the Microsoft BotFramework and Azure Bot Service.
+### 👨‍💻 This is Hongyang Du
+- I’m currently working on the Microsoft BotFramework and Azure Bot Service.
 
+### 🕧 My working status on coding
 <!--START_SECTION:waka-->
 ```text
 C#         45 mins         ███████████▓░░░░░░░░░░░░░   47.23 % 
@@ -10,7 +11,7 @@ Other      1 min           ▒░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-### repositories
+### 📁 repositories
 Here are some repositories that I have ever contributed code.
 - BotFramework dotnet SDK: [microsoft/botbuilder-dotnet](https://github.com/Microsoft/botbuilder-dotnet)
 - BotFramework javascript/typescript SDK: [botbuilder-js](https://github.com/Microsoft/botbuilder-js)
@@ -18,17 +19,17 @@ Here are some repositories that I have ever contributed code.
 - BotFramework Adaptive Tools and Samples: [BotBuilder-Samples](https://github.com/Microsoft/BotBuilder-Samples)
 - BotFramework Composer: [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
 
-###  products
+### ✈️ products
 Here are some products that I have participate in:
 - Business portal: https://business.microsoft.com
 - BotFramework: https://dev.botframework.com/
 - Adaptive-tool extension: https://marketplace.visualstudio.com/items?itemName=BotBuilder.bot-framework-adaptive-tools
 - Conmposer: https://docs.microsoft.com/en-us/composer/introduction?tabs=v2x
 
-### Reach me
+### 📧 Reach me
 Reach me at: hond@microsoft.com or 1990512dhy@163.com
 
-### What I have learned and want to learn of azure service
+### ☁️ What I have learned and want to learn of azure service
 #### Have learned
 - Storage Account
 - Function App
@@ -47,7 +48,7 @@ Reach me at: hond@microsoft.com or 1990512dhy@163.com
 - Data Explorer (kusto)
 - Machine learning
 
-### What I have learned and want to learn
+### 🔧 What I have learned and want to learn
 #### have laerned
 - git
 - C#/Trpescript language
