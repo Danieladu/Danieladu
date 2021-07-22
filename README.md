@@ -31,22 +31,22 @@ Reach me at: hond@microsoft.com or 1990512dhy@163.com
 
 ### ☁️ What I have learned and want to learn of azure service
 #### Have learned
-- Storage Account
-- Function App
-- Web App
-- Luis
-- QnaMaker
-- Application Insights
-- Power BI
-- Container Registry
-- Redis
-- Service Bus
-- API management
+- [Storage Account](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
+- [Function App](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
+- [Web App](https://docs.microsoft.com/en-us/azure/app-service/overview)
+- [Luis](https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/)
+- [QnaMaker](https://www.qnamaker.ai/)
+- [Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
+- [Power BI](https://powerbi.microsoft.com/en-us/)
+- [Container Registry](https://azure.microsoft.com/en-us/services/container-registry/)
+- [Redis](https://azure.microsoft.com/en-us/services/cache)
+- [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
+- [API management](https://azure.microsoft.com/en-us/services/api-management/)
 
 #### want to learn
-- Kubernates service
-- Data Explorer (kusto)
-- Machine learning
+- [Kubernates service](https://azure.microsoft.com/en-us/services/kubernetes-service/)
+- [Data Explorer (kusto)](https://azure.microsoft.com/en-us/services/data-explorer/)
+- [Machine learning](https://azure.microsoft.com/en-us/services/machine-learning/)
 
 ### 🔧 What I have learned and want to learn
 #### have laerned
@@ -62,4 +62,3 @@ Reach me at: hond@microsoft.com or 1990512dhy@163.com
 #### want to learn
 - Docker
 - Machine learning
-- More
