@@ -13,14 +13,14 @@ Other      1 min           ▒░░░░░░░░░░░░░░░░�
 
 ### 📁 repositories
 Here are some repositories that I have ever contributed code.
-- BotFramework dotnet SDK: [microsoft/botbuilder-dotnet](https://github.com/Microsoft/botbuilder-dotnet)
+- BotFramework dotnet SDK: [botbuilder-dotnet](https://github.com/Microsoft/botbuilder-dotnet)
 - BotFramework javascript/typescript SDK: [botbuilder-js](https://github.com/Microsoft/botbuilder-js)
 - BotFramework CLI: [botframework-cli](https://github.com/microsoft/botframework-cli)
 - BotFramework Adaptive Tools and Samples: [BotBuilder-Samples](https://github.com/Microsoft/BotBuilder-Samples)
 - BotFramework Composer: [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
 
 ### ✈️ products
-Here are some products that I have participate in:
+Here are some products that I have participated in:
 - Business portal: https://business.microsoft.com
 - BotFramework: https://dev.botframework.com/
 - Adaptive-tool extension: https://marketplace.visualstudio.com/items?itemName=BotBuilder.bot-framework-adaptive-tools
