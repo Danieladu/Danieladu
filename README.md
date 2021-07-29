@@ -1,7 +1,7 @@
 ### 👨‍💻 This is Hongyang Du
 - I’m currently working on the Microsoft BotFramework and Azure Bot Service.
 
-### 🕧 My working status on coding
+### 🕧 My working status on coding this week
 <!--START_SECTION:waka-->
 ```text
 C#            2 hrs 15 mins   ██████████████▒░░░░░░░░░░   56.71 % 
