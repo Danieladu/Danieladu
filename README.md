@@ -4,7 +4,7 @@
 ### 🕧 My working status on coding this week
 <!--START_SECTION:waka-->
 ```text
-PowerShell   7 mins          ████████████████████████░   95.86 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
