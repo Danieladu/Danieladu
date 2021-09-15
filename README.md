@@ -4,7 +4,8 @@
 ### 🕧 My working status on coding this week
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other   13 mins         █████████████████▓░░░░░░░   71.29 % 
+C#      4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.25 % 
 ```
 <!--END_SECTION:waka-->
 
