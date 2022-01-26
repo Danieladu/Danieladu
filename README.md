@@ -4,7 +4,8 @@
 ### 🕧 My working status on coding this week
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSON         49 mins         ███████████████▓░░░░░░░░░   62.90 % 
+HTML         29 mins         █████████▒░░░░░░░░░░░░░░░   37.03 % 
 ```
 <!--END_SECTION:waka-->
 
