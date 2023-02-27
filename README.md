@@ -1,15 +1,6 @@
 ### 👨‍💻 This is Hongyang Du
 - I’m currently working on the Microsoft BotFramework and Azure Bot Service.
 
-### 🕧 My working status on coding this week
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ### 📁 repositories
 Here are some repositories that I have ever contributed code.
 - BotFramework dotnet SDK: [botbuilder-dotnet](https://github.com/Microsoft/botbuilder-dotnet)
